@@ -279,3 +279,4 @@ $ python3 unittest -m tests/test_console.py
 ## Authors :black_nib:
 
 - **Odujirin Oluwadamilola Sandra** <[SandraDammy](https://github.com/SandraDammy)>
+- **James Oluwatosin Fadeyi** <[Oluwatosin5006](https://github.com/Oluwatosin5006)>
